@@ -31,4 +31,5 @@ On Linux or WSL, use `python3 API/api_summary.py`. To run a sample Bash system r
 
 ## Evidence status
 
-This repository distinguishes submitted evidence from examples and pending items. The included Bash scripts are portfolio examples prepared for this capstone; they are not represented as recovered Lab 2 submissions. Linux output screenshots and the LinkedIn screenshot are not yet present. Replace this status with links to actual evidence as it is collected.
+This repository distinguishes submitted evidence from examples and pending items. The included Bash scripts are portfolio examples prepared for this capstone; they are not represented as recovered Lab 2 submissions. Linux command outputs are recorded in `Linux/system-profile.md`; the Linux terminal screenshot and LinkedIn screenshot are still pending. Postman evidence is included under `Screenshots/`. Replace this status with links to actual evidence as it is collected.
+

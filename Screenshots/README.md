@@ -1,10 +1,15 @@
 # Screenshot evidence index
 
-Add genuine screenshots captured during the labs. Do not recreate terminal output or claim an action was completed based on an example.
+Screenshots here are genuine captures from the coursework sessions.
 
-- [ ] Q1 Linux commands and system profile
-- [ ] Q2 original shell scripts running successfully
-- [ ] Q3 curl/jq terminal output and Postman 200 OK response
-- [ ] Q4 GitHub profile, LinkedIn profile, and live portfolio
+- `Q3-postman-users-200.png` — Postman GET request for JSONPlaceholder users; response status 200 OK and JSON content type.
+- `Q3-postman-filtered-posts-200.png` — Postman GET request filtered with `userId=1`; response status 200 OK.
 
-Crop or redact private information before publishing screenshots.
+Still to add:
+
+- [ ] Q1 terminal screenshot from Kali/WSL showing the commands in `../Linux/system-profile.md`.
+- [ ] Q2 screenshots of the original Lab 2 scripts running successfully (the two capstone examples are not original Lab 2 submissions).
+- [ ] Q4 LinkedIn profile screenshot after verifying the displayed education dates and profile details.
+- [ ] Additional Git command/API screenshots from the original lab sessions if required by the faculty.
+
+Crop or redact any private information before adding more screenshots.
